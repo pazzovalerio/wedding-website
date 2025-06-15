@@ -16,33 +16,12 @@
     "città": "Monza"
   },
   "testi": {
-    "titolo_benvenuto": {
-      "it": "Benvenuti al nostro matrimonio",
-      "en": "Welcome to our wedding"
-    },
-    "descrizione_home": {
-      "it": "Siamo felici di condividere con voi questo giorno speciale.",
-      "en": "We are happy to share this special day with you."
-    },
-    "rsvp_titolo": {
-      "it": "Conferma la tua presenza",
-      "en": "RSVP"
-    },
-    "rsvp_descrizione": {
-      "it": "Compila il modulo per farci sapere se parteciperai.",
-      "en": "Please fill the form to let us know if you'll attend."
-    },
-    "dettagli_matrimonio": {
-      "it": "Dettagli della cerimonia e del ricevimento",
-      "en": "Ceremony and reception details"
-    },
-    "data_completa": {
-      "it": "15 Settembre 2025 alle ore 16:00",
-      "en": "September 15, 2025 at 4:00 PM"
-    },
-    "footer": {
-      "it": "Con amore, Valerio & Elisa",
-      "en": "With love, Valerio & Elisa"
-    }
+    "titolo_benvenuto": "Benvenuti al nostro matrimonio",
+    "descrizione_home": "Siamo felici di condividere con voi questo giorno speciale.",
+    "rsvp_titolo": "Conferma la tua presenza",
+    "rsvp_descrizione": "Compila il modulo per farci sapere se parteciperai.",
+    "dettagli_matrimonio": "Dettagli della cerimonia e del ricevimento",
+    "data_completa": "15 Settembre 2025 alle ore 16:00",
+    "footer": "Con amore, Valerio & Elisa"
   }
 }
